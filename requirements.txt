@@ -1,0 +1,4 @@
+ai-sdk-python
+python-dotenv
+ddgs
+requests
